@@ -1,0 +1,9 @@
+{
+  "version": "1.0.1",
+  "sha": "99a0b3870db154b02b47fda71e47ae1b60917728",
+  "commitDate": "2026-09-27T11:28:33Z",
+  "title": "Vanilla Auction Software Update",
+  "description": "Release: Add US formatted phone number field to email contacts hub. Click below to download and install.",
+  "cashierDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/raw/refs/heads/main/VanillaAuction-Cashier-Setup.zip",
+  "opsDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/raw/refs/heads/main/VanillaAuction-Manager-Setup.zip"
+}
