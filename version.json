@@ -1,9 +1,9 @@
 ﻿{
   "version": "1.0.1",
   "sha": "",
-  "commitDate": "2026-09-27T15:22:04Z",
+  "commitDate": "2026-09-27T15:30:14Z",
   "title": "Vanilla Auction Software Update",
   "description": "Release: Fix installer naming swap - Cashier-Setup now installs Cashier POS, Manager-Setup installs Operations Center. Click below to download and install.",
-  "cashierDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/raw/refs/heads/main/VanillaAuction-Cashier-Setup.zip",
-  "opsDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/raw/refs/heads/main/VanillaAuction-Manager-Setup.zip"
+  "cashierDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/raw/refs/heads/main/VanillaAuction-Manager-Setup.zip",
+  "opsDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/raw/refs/heads/main/VanillaAuction-Cashier-Setup.zip"
 }
