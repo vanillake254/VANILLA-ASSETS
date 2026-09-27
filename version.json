@@ -1,9 +1,9 @@
 {
   "version": "1.0.2",
-  "sha": "616afbf5dfa02251141e6c3be31e3d3600c73336",
-  "commitDate": "2026-09-27T21:26:00Z",
+  "sha": "66aa3d100ec6bd8fbc8f70900bc61bf7dda0873f",
+  "commitDate": "2026-09-27T21:36:07Z",
   "title": "Vanilla Auction Software Update",
-  "description": "Release: Swap download package targets. Click below to download and install.",
-  "cashierDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.1-202609272105/VanillaAuction-Manager-Setup.zip",
-  "opsDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.1-202609272105/VanillaAuction-Cashier-Setup.zip"
+  "description": "New update available. Click below to download and install.",
+  "cashierDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/raw/refs/heads/main/VanillaAuction-Cashier-Setup.zip",
+  "opsDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/raw/refs/heads/main/VanillaAuction-Manager-Setup.zip"
 }
