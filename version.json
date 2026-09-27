@@ -1,9 +1,9 @@
-{
+﻿{
   "version": "1.0.1",
-  "sha": "9a30b4a",
-  "commitDate": "2026-09-27T13:29:27Z",
+  "sha": "",
+  "commitDate": "2026-09-27T14:55:42Z",
   "title": "Vanilla Auction Software Update",
-  "description": "Release: Add US formatted phone number field to email contacts hub. Click below to download and install.",
+  "description": "Release: Fix bidder name revelation for existing orders and restore app branding. Click below to download and install.",
   "cashierDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/raw/refs/heads/main/VanillaAuction-Cashier-Setup.zip",
   "opsDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/raw/refs/heads/main/VanillaAuction-Manager-Setup.zip"
 }
