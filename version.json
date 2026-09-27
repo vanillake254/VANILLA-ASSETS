@@ -1,9 +1,9 @@
 ﻿{
   "version": "1.0.1",
   "sha": "",
-  "commitDate": "2026-09-27T18:59:41Z",
+  "commitDate": "2026-09-27T19:27:56Z",
   "title": "Vanilla Auction Software Update",
-  "description": "Release: Update installers with clean Deflate compression and signed binaries. Click below to download and install.",
-  "cashierDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.1-202609271859/VanillaAuction-Cashier-Setup.zip",
-  "opsDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.1-202609271859/VanillaAuction-Manager-Setup.zip"
+  "description": "Release: Fix app branding labels and update notification dismiss logic. Click below to download and install.",
+  "cashierDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.1-202609271927/VanillaAuction-Cashier-Setup.zip",
+  "opsDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.1-202609271927/VanillaAuction-Manager-Setup.zip"
 }
