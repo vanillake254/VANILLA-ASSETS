@@ -1,9 +1,9 @@
 ﻿{
   "version": "1.0.1",
   "sha": "",
-  "commitDate": "2026-09-27T19:27:56Z",
+  "commitDate": "2026-09-27T20:29:46Z",
   "title": "Vanilla Auction Software Update",
-  "description": "Release: Fix app branding labels and update notification dismiss logic. Click below to download and install.",
-  "cashierDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.1-202609271927/VanillaAuction-Cashier-Setup.zip",
-  "opsDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.1-202609271927/VanillaAuction-Manager-Setup.zip"
+  "description": "Release: Swap installer output names (Cashier-Setup now installs Cashier app, Manager-Setup installs Manager app). Click below to download and install.",
+  "cashierDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.1-202609272029/VanillaAuction-Cashier-Setup.zip",
+  "opsDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.1-202609272029/VanillaAuction-Manager-Setup.zip"
 }
