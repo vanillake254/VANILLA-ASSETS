@@ -1,7 +1,7 @@
 ﻿{
   "version": "1.0.1",
   "sha": "",
-  "commitDate": "2026-09-27T14:55:42Z",
+  "commitDate": "2026-09-27T14:57:01Z",
   "title": "Vanilla Auction Software Update",
   "description": "Release: Fix bidder name revelation for existing orders and restore app branding. Click below to download and install.",
   "cashierDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/raw/refs/heads/main/VanillaAuction-Cashier-Setup.zip",
