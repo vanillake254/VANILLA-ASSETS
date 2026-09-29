@@ -1,6 +1,6 @@
 {
   "version": "1.0.6",
-  "sha": "63782a6f34714cbb5e3fd07d2d7b182c7a4fa460",
+  "sha": "v1.0.6-202609291515",
   "commitDate": "2026-09-29T15:15:12Z",
   "title": "Vanilla Auction Software Update",
   "description": "Add sales tax support at checkout, instant fire-and-forget email delivery for all email endpoints. Click below to download and install.",
