@@ -1,9 +1,9 @@
 {
   "version": "1.0.6",
-  "sha": "v1.0.6-202609291515",
-  "commitDate": "2026-09-29T15:15:12Z",
+  "sha": "v1.0.6-202609291600",
+  "commitDate": "2026-09-29T16:00:08Z",
   "title": "Vanilla Auction Software Update",
   "description": "Add sales tax support at checkout, instant fire-and-forget email delivery for all email endpoints. Click below to download and install.",
-  "cashierDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.6-202609291515/VanillaAuction-Cashier-Setup.zip",
-  "opsDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.6-202609291515/VanillaAuction-Manager-Setup.zip"
+  "cashierDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.6-202609291600/VanillaAuction-Cashier-Setup.zip",
+  "opsDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.6-202609291600/VanillaAuction-Manager-Setup.zip"
 }
