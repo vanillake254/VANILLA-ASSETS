@@ -1,9 +1,9 @@
 ﻿{
-  "version": "1.0.3",
-  "sha": "8d1e05a01cce0b161ffeed7f07d170bf2241aad7",
-  "commitDate": "2026-09-29T11:40:58Z",
+  "version": "1.0.4",
+  "sha": "0f6ee315e317044930fd8cb9bfbc7529dc7cd3a6",
+  "commitDate": "2026-09-29T13:51:58Z",
   "title": "Vanilla Auction Software Update",
-  "description": "Release: Invoice email pre-fill from bidder contact; fix installer AV false positive. Click below to download and install.",
-  "cashierDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.1-202609291140/VanillaAuction-Cashier-Setup.zip",
-  "opsDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.1-202609291140/VanillaAuction-Manager-Setup.zip"
+  "description": "Fix PDF glyph crash on invoice; dynamic version display from backend version.json. Click below to download and install.",
+  "cashierDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.4-202609291351/VanillaAuction-Cashier-Setup.zip",
+  "opsDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.4-202609291351/VanillaAuction-Manager-Setup.zip"
 }
