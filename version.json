@@ -1,0 +1,9 @@
+{
+  "version": "1.0.6",
+  "sha": "v1.0.6-202610030147",
+  "commitDate": "2026-10-03T01:47:47Z",
+  "title": "Vanilla Auction Software Update",
+  "description": "Fix buyer and bidder receipt printing to paginate all items across multiple pages. Click below to download and install.",
+  "cashierDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.6-202610030147/VanillaAuction-Cashier-Setup.zip",
+  "opsDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.6-202610030147/VanillaAuction-Manager-Setup.zip"
+}
