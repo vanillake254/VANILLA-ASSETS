@@ -1,9 +1,9 @@
 {
   "version": "1.0.6",
-  "sha": "v1.0.6-202610030214",
-  "commitDate": "2026-10-03T02:14:34Z",
+  "sha": "v1.0.6-202611072150",
+  "commitDate": "2026-11-07T21:50:56Z",
   "title": "Vanilla Auction Software Update",
-  "description": "Fix cashier installer identity mismatch causing Windows Defender false positive on download. Click below to download and install.",
-  "cashierDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.6-202610030214/VanillaAuction-Cashier-Setup.zip",
-  "opsDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.6-202610030214/VanillaAuction-Manager-Setup.zip"
+  "description": "Executive colorful receipt and report redesign, terminology updates. Click below to download and install.",
+  "cashierDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.6-202611072150/VanillaAuction-Cashier-Setup.zip",
+  "opsDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.6-202611072150/VanillaAuction-Manager-Setup.zip"
 }
