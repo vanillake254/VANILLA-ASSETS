@@ -1,9 +1,9 @@
 {
   "version": "1.0.6",
-  "sha": "v1.0.6-202611072237",
-  "commitDate": "2026-11-07T22:37:13Z",
+  "sha": "v1.0.6-202611072322",
+  "commitDate": "2026-11-07T23:22:19Z",
   "title": "Vanilla Auction Software Update",
-  "description": "Fix Defender false positive: replace all Process.run shell calls with url_launcher across both apps. Click below to download and install.",
-  "cashierDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.6-202611072237/VanillaAuction-Cashier-Setup.zip",
-  "opsDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.6-202611072237/VanillaAuction-Manager-Setup.zip"
+  "description": "Add 20% seller house commission with Sales Tax exemption on receipts, statements, and UI. Click below to download and install.",
+  "cashierDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.6-202611072322/VanillaAuction-Cashier-Setup.zip",
+  "opsDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.6-202611072322/VanillaAuction-Manager-Setup.zip"
 }
