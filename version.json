@@ -1,9 +1,9 @@
 {
   "version": "1.0.6",
-  "sha": "v1.0.6-202611072206",
-  "commitDate": "2026-11-07T22:06:49Z",
+  "sha": "v1.0.6-202611072222",
+  "commitDate": "2026-11-07T22:22:06Z",
   "title": "Vanilla Auction Software Update",
-  "description": "Fix Defender false positive: fragment update URLs to avoid static-scan heuristic. Click below to download and install.",
-  "cashierDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.6-202611072206/VanillaAuction-Cashier-Setup.zip",
-  "opsDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.6-202611072206/VanillaAuction-Manager-Setup.zip"
+  "description": "Fix Defender Wacatac false positive: replace cmd /c shell call with url_launcher for PDF open. Click below to download and install.",
+  "cashierDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.6-202611072222/VanillaAuction-Cashier-Setup.zip",
+  "opsDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.6-202611072222/VanillaAuction-Manager-Setup.zip"
 }
