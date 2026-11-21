@@ -1,9 +1,9 @@
 {
-  "version": "1.0.7",
-  "sha": "v1.0.7-202611210234",
-  "commitDate": "2026-11-21T02:34:52Z",
+  "version": "1.0.8",
+  "sha": "v1.0.8-202611210248",
+  "commitDate": "2026-11-21T02:48:19Z",
   "title": "Vanilla Auction Software Update",
-  "description": "Add permanent auction register safeguards, typing confirmation, soft-delete, and undo-restore. Click below to download and install.",
-  "cashierDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.7-202611210234/VanillaAuction-Cashier-Setup.zip",
-  "opsDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.7-202611210234/VanillaAuction-Manager-Setup.zip"
+  "description": "Position Log Item button prominently and fix header spacing on register. Click below to download and install.",
+  "cashierDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.8-202611210248/VanillaAuction-Cashier-Setup.zip",
+  "opsDownloadUrl": "https://github.com/vanillake254/VANILLA-ASSETS/releases/download/v1.0.8-202611210248/VanillaAuction-Manager-Setup.zip"
 }
